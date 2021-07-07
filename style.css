@@ -1,0 +1,50 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.link {
+    float: left;
+    color: pink;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.link:hover {
+    background-color: aqua;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+#sec {
+    width: 50%;
+    height: 50%;
+    Margin-left: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+}
